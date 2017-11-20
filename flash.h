@@ -1,0 +1,10 @@
+#define CLK   14
+#define MOSI  13
+#define MISO  12
+#define CS    15
+#define READ_ID 0x9E
+#define PAGE_PROGRAM 0x02
+#define WRITE_ENABLE 0x06
+#define READ_DATA_BYTES 0x03
+#define DUMMY 0xAA
+#define SUBSECTOR_ERASE 0x20
